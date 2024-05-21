@@ -3,3 +3,9 @@
 
 # nodejs node_modules
 **/node_modules
+
+# secret
+secret.json
+
+# package-lock
+**/package-lock.json
